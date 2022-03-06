@@ -15,7 +15,7 @@ function setup() {
 function draw() {
     background(0);
     translate(width/2, height/2);
-    scale(2);
+    scale(1.5);
     stroke(255);
 
     noFill();
